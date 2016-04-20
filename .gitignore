@@ -13,8 +13,9 @@ hs_err_pid*
 
 /target
 # .idea config file
-/.idea/
+/.idea
 /*.iml
 /.classpath
 /*.eml
 /.project
+.gitignore
